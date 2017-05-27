@@ -58,3 +58,7 @@ C:\Users\ARIEL\Documents\Visual Studio 2012\Projects\Portatiles\Portatiles\Porta
 C:\Users\ARIEL\Documents\Visual Studio 2012\Projects\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.vbproj.ResolveComReference.cache
 C:\Users\ARIEL\Documents\Visual Studio 2012\Projects\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.FrmTile.resources
 C:\Users\ARIEL\Documents\Visual Studio 2012\Projects\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.FrmRemisiones.resources
+C:\Users\ARIEL\Desktop\Prueba PLOP\ElementalAADG\Portatiles\Portatiles\bin\Debug\Portatiles.exe.config
+C:\Users\ARIEL\Desktop\Prueba PLOP\ElementalAADG\Portatiles\Portatiles\obj\Debug\Portatiles.vbproj.ResolveComReference.cache
+C:\Users\ARIEL\Desktop\Prueba PLOP\ElementalAADG\Portatiles\Portatiles\obj\Debug\Portatiles.exe
+C:\Users\ARIEL\Desktop\Prueba PLOP\ElementalAADG\Portatiles\Portatiles\obj\Debug\Portatiles.pdb

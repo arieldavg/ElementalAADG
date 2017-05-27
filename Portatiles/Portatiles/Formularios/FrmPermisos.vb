@@ -87,7 +87,7 @@ Public Class FrmPermisos
 
     Private Sub Permisos_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         On Error GoTo Exception
-
+        MsgBox("COSA")
         CrearDataTables()
         LlenarDataTables()
 
